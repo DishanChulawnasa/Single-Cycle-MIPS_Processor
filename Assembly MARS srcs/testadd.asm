@@ -2,13 +2,14 @@
     .globl main
 
 main:
-    # Initialize values
-    li $t0, 34        # Load 34 into register $t0
-    li $t1, 184       # Load 184 into register $t1
+    # Initialize variables
+    addi $t0, $zero, 34    # First number (decimal)
+    addi $t1, $zero, 184   # Second number (decimal)
+    addi $t2, $zero, 0     # Result
 
-    # Add the values
-    add $t2, $t0, $t1 # $t2 = $t0 + $t1
+    # Add two numbers
+    add $t2, $t0, $t1
 
     # Exit program
-    li $v0, 10         # syscall code for exit
-    syscall            # make system call
+    addi $v0, $zero, 10    # Exit system call code
+    syscall
