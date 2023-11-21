@@ -37,22 +37,29 @@ Simulation:
 1.	Add two Numbers:
 MIPS Emulator:
 
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/11689b33-6dfb-4481-bbf8-ba365c1f9422)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/e0d3c9ed-868e-454b-94fe-129818c0ba36)
+
+
 
 
 Simulation in Xilinx Vivado (MIPS_TOP_tb_behav.wcfg):
 
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/dd73d2a6-99ef-44cb-9086-98bcccfc9993)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/12ef1b1f-bcac-4529-a9d5-8ad25fca1c86)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/693d5d77-6ac8-4b74-98e5-1a59c1773065)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/77d07ca7-dac1-492f-9570-e2e55781b944)
+
 
 
 2.	Fibonachchi Numbers:	
 MIPS Emulator:
 
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/b9101bfb-c8e3-4e06-82c1-797a55916f91)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/00709adc-d451-4560-aa07-f1c143f33035)
+
 
 
 Simulation in Xilinx Vivado (MIPS_TOP_tb_behav.wcfg):
 
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/069f4ec7-4745-4a88-93bf-a7bdf5f2a3dd)
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/5ec11ad7-1e3e-4841-89a6-c808f5b33c7d)
-![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/8f11929e-beb9-4941-a4eb-1f40b90e866a)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/b5c90a85-e693-4a91-b991-b46fe42f03b4)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/7600a2c2-d64f-41f4-b7cd-1602dbc4eeb4)
+![image](https://github.com/DishanChulawnasa/Single-Cycle-MIPS_Processor/assets/129721116/7c1facc8-1ad2-42fa-ab90-2b84e293408f)
+
